@@ -18,14 +18,7 @@ The Hospital Management System (HMS) is a Java-based desktop application designe
 - **Database**: MySQL  
 - **Build Tool**: Maven 
 
-## 📂 Project Structure
-├── src/
-│ └── com/
-│ └── mycompany/
-│ └── hospitalmanagementsystemui/
-├── .gitignore
-├── pom.xml
-└── README.md
+
 
 
 
